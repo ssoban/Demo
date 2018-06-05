@@ -2100,4 +2100,22 @@
  2017-12-10 15:32:46,781  INFO [main] Class:47 - Write password ..  [[FirefoxDriver: firefox on WINDOWS (fd47d72d-ffef-4e52-97f4-f8e1beaaffb2)] -> xpath: //*[@id='ch_login_password']]
  2017-12-10 15:32:47,385  INFO [main] Class:50 - Click on submit  ..  [[FirefoxDriver: firefox on WINDOWS (fd47d72d-ffef-4e52-97f4-f8e1beaaffb2)] -> xpath: //*[@id='ch_login_btn']]
  2017-12-10 15:32:57,446  INFO [main] Class:54 - return invalid message  ..[[FirefoxDriver: firefox on WINDOWS (fd47d72d-ffef-4e52-97f4-f8e1beaaffb2)] -> xpath: //*[contains(text(),'Email and Password do not match.')]]
+ 2017-12-23 01:17:40,573  INFO [main] Class:18 - Hello.. Browser opening  in Debug method
+ 2017-12-23 01:17:48,049  INFO [main] Class:24 - Firefox.. Browser opened in Debug method
+ 2017-12-23 01:17:55,675  INFO [main] Class:26 - Navigate to makemytrip completed in Firefox.. Browser opened in Debug method
+ 2017-12-23 01:17:56,346  INFO [main] Class:28 - Firefox.. Browser is maximize suceess in Debug method
+ 2017-12-23 01:17:57,991  INFO [main] Class:41 - Click on singinbutton ..  [[FirefoxDriver: firefox on WINDOWS (5d0849f4-df31-4fde-99c1-10ac2b766ef9)] -> xpath: //*[@id='ch_login_icon']/span[2]]
+ 2017-12-23 01:17:58,804  INFO [main] Class:44 - Write email .. [[FirefoxDriver: firefox on WINDOWS (5d0849f4-df31-4fde-99c1-10ac2b766ef9)] -> xpath: //*[@id='ch_login_email']]
+ 2017-12-23 01:17:59,205  INFO [main] Class:47 - Write password ..  [[FirefoxDriver: firefox on WINDOWS (5d0849f4-df31-4fde-99c1-10ac2b766ef9)] -> xpath: //*[@id='ch_login_password']]
+ 2017-12-23 01:17:59,868  INFO [main] Class:50 - Click on submit  ..  [[FirefoxDriver: firefox on WINDOWS (5d0849f4-df31-4fde-99c1-10ac2b766ef9)] -> xpath: //*[@id='ch_login_btn']]
+ 2017-12-23 01:18:09,939  INFO [main] Class:54 - return invalid message  ..[[FirefoxDriver: firefox on WINDOWS (5d0849f4-df31-4fde-99c1-10ac2b766ef9)] -> xpath: //*[contains(text(),'Email and Password do not match.')]]
+ 2018-03-26 02:29:04,319  INFO [main] Class:18 - Hello.. Browser opening  in Debug method
+ 2018-03-26 02:29:20,328  INFO [main] Class:24 - Firefox.. Browser opened in Debug method
+ 2018-03-26 02:29:30,813  INFO [main] Class:26 - Navigate to makemytrip completed in Firefox.. Browser opened in Debug method
+ 2018-03-26 02:29:31,816  INFO [main] Class:28 - Firefox.. Browser is maximize suceess in Debug method
+ 2018-03-26 02:29:35,423  INFO [main] Class:42 - Click on singinbutton ..  [[FirefoxDriver: firefox on WINDOWS (1fe721ad-943a-42e6-b900-5d22a72bc2fb)] -> xpath: //*[@id='ch_login_icon']/span[2]]
+ 2018-03-26 02:29:39,958  INFO [main] Class:45 - Write email .. [[FirefoxDriver: firefox on WINDOWS (1fe721ad-943a-42e6-b900-5d22a72bc2fb)] -> xpath: //*[@id='ch_login_email']]
+ 2018-03-26 02:29:40,904  INFO [main] Class:48 - Write password ..  [[FirefoxDriver: firefox on WINDOWS (1fe721ad-943a-42e6-b900-5d22a72bc2fb)] -> xpath: //*[@id='ch_login_password']]
+ 2018-03-26 02:29:42,399  INFO [main] Class:51 - Click on submit  ..  [[FirefoxDriver: firefox on WINDOWS (1fe721ad-943a-42e6-b900-5d22a72bc2fb)] -> xpath: //*[@id='ch_login_btn']]
+ 2018-03-26 02:29:52,568  INFO [main] Class:55 - return invalid message  ..[[FirefoxDriver: firefox on WINDOWS (1fe721ad-943a-42e6-b900-5d22a72bc2fb)] -> xpath: //*[contains(text(),'Email and Password do not match.')]]
  

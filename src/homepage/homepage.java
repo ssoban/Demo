@@ -1,13 +1,13 @@
 package homepage;
 
 import org.apache.log4j.Logger;
-import org.openqa.selenium.By;
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-import loginscripts.loginscript1;
+
 
 public class homepage {
 	public static Logger logger = Logger.getLogger(homepage.class.getClass());
@@ -24,6 +24,7 @@ public homepage(WebDriver driver){
 @FindBy(xpath="//*[@id='ch_login_icon']/span[2]")
 WebElement loginbutton;
 @FindBy(xpath="//*[@id='ch_login_email']")
+
 WebElement email;
 @FindBy(xpath="//*[@id='ch_login_password']")
 WebElement password;

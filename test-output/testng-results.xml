@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="42494" started-at="2017-12-10T10:02:15Z" finished-at="2017-12-10T10:02:57Z">
+  <suite name="Default suite" duration-ms="48522" started-at="2018-03-25T20:59:04Z" finished-at="2018-03-25T20:59:52Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="42494" started-at="2017-12-10T10:02:15Z" finished-at="2017-12-10T10:02:57Z">
+    <test name="Default test" duration-ms="48522" started-at="2018-03-25T20:59:04Z" finished-at="2018-03-25T20:59:52Z">
       <class name="loginscripts.loginscript1">
-        <test-method status="PASS" signature="open()[pri:0, instance:loginscripts.loginscript1@17d0008]" name="open" is-config="true" duration-ms="25307" started-at="2017-12-10T15:32:15Z" finished-at="2017-12-10T15:32:40Z">
+        <test-method status="PASS" signature="open()[pri:0, instance:loginscripts.loginscript1@17d0008]" name="open" is-config="true" duration-ms="27571" started-at="2018-03-26T02:29:04Z" finished-at="2018-03-26T02:29:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- open -->
-        <test-method status="PASS" signature="verifylogin()[pri:0, instance:loginscripts.loginscript1@17d0008]" name="verifylogin" duration-ms="17167" started-at="2017-12-10T15:32:40Z" finished-at="2017-12-10T15:32:57Z">
+        <test-method status="PASS" signature="verifylogin()[pri:0, instance:loginscripts.loginscript1@17d0008]" name="verifylogin" duration-ms="20895" started-at="2018-03-26T02:29:31Z" finished-at="2018-03-26T02:29:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifylogin -->
-        <test-method status="PASS" signature="close()[pri:0, instance:loginscripts.loginscript1@17d0008]" name="close" is-config="true" duration-ms="0" started-at="2017-12-10T15:32:57Z" finished-at="2017-12-10T15:32:57Z">
+        <test-method status="PASS" signature="close()[pri:0, instance:loginscripts.loginscript1@17d0008]" name="close" is-config="true" duration-ms="0" started-at="2018-03-26T02:29:52Z" finished-at="2018-03-26T02:29:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
